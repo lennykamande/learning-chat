@@ -13,7 +13,7 @@ No wonder **chatbot** is a potent application of
 4. [Conversation with the bot](#4-conversation-with-the-bot)
 5. [Repository Overview](#5-repository-overview)
 6. [Observations](#6-observations)
-7. [Credits](#7-credits)
+
 
 ## 1. Setup Instructions
 You can either download the repo or clone it by running the following in cmd prompt
